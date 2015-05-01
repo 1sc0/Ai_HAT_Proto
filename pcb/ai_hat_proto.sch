@@ -10983,7 +10983,7 @@ This library includes digital and analog Integrated Circuits such as MCUs, shift
 <part name="GND6" library="Ai_Power" deviceset="GND" device=""/>
 <part name="J19" library="Ai_Connectors" deviceset="JST-4P-MALE" device=""/>
 <part name="GND7" library="Ai_Power" deviceset="GND" device=""/>
-<part name="R4" library="Ai_Passives" deviceset="RES" device="0603" value="300"/>
+<part name="R4" library="Ai_Passives" deviceset="RES" device="0603" value="330"/>
 <part name="FRAME1" library="Ai_Miscellany" deviceset="FRAME-LETTER" device="">
 <attribute name="AUTHOR" value="A.I. HARDWARE SITH LORDS"/>
 <attribute name="REV" value="1.0"/>
