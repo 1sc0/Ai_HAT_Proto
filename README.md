@@ -1,6 +1,6 @@
 ## Ai\_HAT\_Proto
 
-PCB design files (EAGLE) for a Raspberry Pi (A+/B+/2/3) HAT with a
+PCB design files (EAGLE) for a Raspberry Pi A+/B+/2/3 HAT with a
 perma/proto-board section for soldering components. Features 3-Pin and 4-Pin JST
 connectors.
 
